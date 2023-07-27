@@ -1,5 +1,6 @@
-<div align="center">
+
 # 🧑🏾‍💻 About Me:
+<div align="center">
 <h3>I am currently studying a career as a fullstack developer, passionate about learning new things.</h3>
 
 
