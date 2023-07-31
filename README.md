@@ -1,6 +1,6 @@
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Phidolly06OB&icon=3&color=4)](https://visitcount.itsvg.in)
+![Logo](https://i.pinimg.com/originals/3e/8f/76/3e8f768b92d7556e6d6edf83d4e09c78.gif)
   
 # 🧑🏾‍💻 Hi! I'm Phidolly Ojeda
   
@@ -24,9 +24,7 @@
 
 ---
 
-![Logo](https://i.pinimg.com/originals/3e/8f/76/3e8f768b92d7556e6d6edf83d4e09c78.gif)
-
-
+[![](https://visitcount.itsvg.in/api?id=Phidolly06OB&icon=3&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
