@@ -1,6 +1,9 @@
-
-# 🧑🏾‍💻 Hi! I'm Phidolly Ojeda
 <div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Phidolly06OB&icon=3&color=4)](https://visitcount.itsvg.in)
+  
+# 🧑🏾‍💻 Hi! I'm Phidolly Ojeda
+  
 <h3>I am currently studying a career as a fullstack developer, passionate about learning new things.</h3>
 
 
@@ -23,7 +26,7 @@
 
 ![Logo](https://i.pinimg.com/originals/3e/8f/76/3e8f768b92d7556e6d6edf83d4e09c78.gif)
 
-[![](https://visitcount.itsvg.in/api?id=Phidolly06OB&icon=3&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
