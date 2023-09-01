@@ -4,7 +4,7 @@
   
 # 🧑🏾‍💻 Hi! I'm Phidolly Ojeda
   
-<h3>I am currently studying a career as a fullstack developer, passionate about learning new things.</h3>
+<h3>I am currently studying a career as a BackEnd developer, passionate about learning new things.</h3>
 
 
 
